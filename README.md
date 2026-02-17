@@ -16,5 +16,10 @@ pct exec $CT_ID -- su - openclaw
 openclaw onboard --install-daemon
 ```
 
+Telegram Recomendado (opcional)
+```bash
+openclaw pairing approve telegram ABC123
+```
+
 🦞🍺
 🚀 You’ve been invited to join the GLM Coding Plan! Enjoy full support for Claude Code, Cline, and 20+ top coding tools — starting at just $10/month. Subscribe now and grab the limited-time deal! Link：[https://z.ai/subscribe?ic=G5QLAPYLLJ](https://z.ai/subscribe?ic=G5QLAPYLLJ)
