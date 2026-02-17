@@ -14,7 +14,7 @@ CT_DISK=20
  Ejecutar desde la SHELL del nodo Proxmox  👇🏼
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/jhonsu01/OpenClaw-Instalador-para-Proxmox-LXC/refs/heads/main/install-openclaw-lxc-v1.sh | bash
+curl -fsSL https://raw.githubusercontent.com/jhonsu01/OpenClaw-Instalador-para-Proxmox-LXC/refs/heads/main/install-openclaw-lxc-v2.sh | bash
 ```
 Lo primero que te pedirá es la contraseña para el usuario openclaw, y después instala todo automático
 Homebrew → Node.js 22 → OpenClaw → Docker.
